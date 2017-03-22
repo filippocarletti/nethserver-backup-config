@@ -10,8 +10,8 @@ What you need
 - A running NethServer 7 installation with at least the same disk space of the source server, we will call it destination server
 - Both machines must be network connected.
 
-Perliminar steps
-----------------
+Preliminary steps
+-----------------
 
 Install NethServer 7 on a new machine, make sure you can reach via SSH the original server.
 Please make sure the source server allows root login via SSH key and password.
